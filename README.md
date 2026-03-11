@@ -19,6 +19,11 @@ I promise the [installation guide on the homepage](https://strawberrystarter.neo
 
 ## Changelog
 
+### 1.1
+- Upgraded 11ty (3.1.2)
+- Fixed neapolitan style nav not changing to fit on mobile
+- Fixed a few typos in the installation guide.
+
 ### 1.0.2
 - Fixed malformed link previews (affected Mastodon, mainly).
 
