@@ -109,3 +109,21 @@ a:hover {
 .lastupdate::after {
     content: " ✿ ";
 }
+
+@media (max-width: 1200px) {
+    nav:not(#pagination) {
+        position: static;
+        width: auto; 
+        border: 3px ridge var(--main-bg-color);
+        margin-bottom: 1rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-bottom: 0.5rem;
+    }
+    nav:not(#pagination) ol {
+        flex-direction: row;
+    }
+    nav:not(#pagination) ol li {
+        width: auto;
+    }
+}

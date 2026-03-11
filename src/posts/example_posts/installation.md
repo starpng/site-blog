@@ -79,7 +79,7 @@ Blog posts start with a little thing called *front matter*. It looks like this:
 ---
 title: The title of the blog post goes here
 date: 2025-12-25
-tag:
+tags:
 - intro
 - example
 ---
