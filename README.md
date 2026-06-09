@@ -29,4 +29,10 @@ I promise the [installation guide on the homepage](https://strawberrystarter.neo
 
 ### 1.0.1
 - Node version used now listed in user-ref.
-- Installation guide reminds users to update Node.
+- Installation guide reminds users to update Node.# blog
+# blog
+# blog
+# blog
+# blog
+# blog
+# blog

@@ -59,7 +59,7 @@ export default function (eleventyConfig) {
     const MDY = `${month}/${day}/${year}`;
     const YMD = `${year}/${month}/${day}`;
     const YDM = `${year}/${day}/${month}`;
-    return DMY;
+    return MDY;
   });
 
   eleventyConfig.addFilter("getLatestFive", function(value) {

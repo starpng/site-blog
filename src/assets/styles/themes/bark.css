@@ -4,11 +4,11 @@
 }
 
 :root {
-    --main-bg-color: #fcfbf5;
-    --secondary-bg-color: #878E76;
-    --main-fg-color: #504136 ;
-    --main-border-color: #AC9686;
-    --main-text-color: #252525;
+    --main-bg-color: #FAF0F0;
+    --secondary-bg-color: #472821;
+    --main-fg-color: #F09871;
+    --main-border-color: #D8C7C1;
+    --main-text-color: #472821;
 }
 
 html {
@@ -26,7 +26,7 @@ main {
 }
 
 main a {
-    color: var(--main-fg-color);
+    color: #E08141;
 }
 
 a:focus,
@@ -55,7 +55,7 @@ nav, footer {
 }
 
 nav a, footer a {
-    color: var(--main-bg-color);
+    color: #523224;
 }
 
 blockquote {
@@ -86,10 +86,6 @@ pre:has(code) {
 
 .lastupdate::after {
     content: " ◉ ";
-}
-
-img[src*='berrysprite.png'] {
-    filter: sepia(100%);
 }
 
 .commentbox,

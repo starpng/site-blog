@@ -2,19 +2,19 @@
 {
     // the name of your blog
     // appears on the footer, the RSS feed, and the link preview (the little image when you link to your site on social media)
-    "siteName": "Strawberry Starter",
+    "siteName": "re: the soliloquy",
 
     // a short description of your blog
     // appears on the link preview
-    "siteDescription": "A simply-sweet blog template!",
+    "siteDescription": "",
 
     // the public URL of your blog
     // this is necessary for the link preview & RSS feed to function correctly
-    "siteURL": "https://strawberrystarter.neocities.org",
+    "siteURL": "https://inksoliloquy.neocities.org",
 
     // your name
     // appears on the footer
-    "siteAuthor": "Kate Bagenzo",
+    "siteAuthor": "ink& / soliloquy",
     
     // a two letter locale code indicating your site's primary language
     // e.g. "en", "fr", "es"... for a full list see https://www.w3schools.com/tags/ref_language_codes.asp
@@ -25,12 +25,12 @@
     // a link where people can reach you - your personal site, your social media, etc...
     // appears on the footer, but you can leave it blank if you don't want it to appear
     // like this : "authorLink": "",
-    "authorLink": "https://katebagenzo.neocities.org",
+    "authorLink": "https://www.pillowfort.social/soliloquy",
 
     // your email address
     // appears on the footer, but you can leave it blank if you don't want it to appear
     // like this : "authorContact": "",
-    "authorContact": "katebagenzo@gmail.com",
+    "authorContact": "",
 
     // the theme used by your blog
     // themes are located in src/assets/styles/themes
@@ -52,5 +52,5 @@
     // !!!
     // IF YOU'RE USING NEOCITIES UPLOAD AND YOUR SITE ALREADY HAS CONTENT IN IT - like a homepage - BE SURE TO SET THIS!
     // UPLOADING TO NEOCITIES WILL OVERWRITE CONTENT!
-    "siteSubDir": "/"
+    "siteSubDir": "/blog/"
 }
